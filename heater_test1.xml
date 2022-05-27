@@ -1,0 +1,109 @@
+<behgen>
+	<program>
+		<number>2</number>
+		<enable>True</enable>
+		<name>heater_test_1</name>
+		<date>2022-04-14</date>
+		<ispinned>True</ispinned>
+		<first_prob_temp>85</first_prob_temp>
+		<last_prob_temp>65</last_prob_temp>
+		<steps>
+		<step id="1">
+			<number>1</number>
+			<name>Magnetic beads</name>
+			<position>2</position>
+			<volume>600</volume>
+			<mixspeed>3</mixspeed>
+			<mixtime>0.2</mixtime>
+			<magtime>50</magtime>
+			<waittime>0</waittime>
+			<temperature>0</temperature>
+			<step_type>1</step_type>
+		</step>
+		<step id="2">
+			<number>2</number>
+			<name>Lysis</name>
+			<position>1</position>
+			<volume>800</volume>
+			<mixspeed>3</mixspeed>
+			<mixtime>20</mixtime>
+			<magtime>40</magtime>
+			<waittime>0</waittime>
+			<temperature>85</temperature>
+			<step_type>2</step_type>
+		</step>
+		<step id="3">
+			<number>3</number>
+			<name>Washing 1</name>
+			<position>3</position>
+			<volume>800</volume>
+			<mixspeed>3</mixspeed>
+			<mixtime>2</mixtime>
+			<magtime>40</magtime>
+			<waittime>0</waittime>
+			<temperature>0</temperature>
+			<step_type>3</step_type>
+		</step>
+		<step id="4">
+			<number>4</number>
+			<name>Washing</name>
+			<position>2</position>
+			<volume>600</volume>
+			<mixspeed>3</mixspeed>
+			<mixtime>0.2</mixtime>
+			<magtime>40</magtime>
+			<waittime>0</waittime>
+			<temperature>0</temperature>
+			<step_type>3</step_type>
+		</step>
+		<step id="5">
+			<number>5</number>
+			<name>Washing 2</name>
+			<position>4</position>
+			<volume>800</volume>
+			<mixspeed>3</mixspeed>
+			<mixtime>1</mixtime>
+			<magtime>40</magtime>
+			<waittime>0</waittime>
+			<temperature>0</temperature>
+			<step_type>3</step_type>
+		</step>
+		<step id="6">
+			<number>6</number>
+			<name>Washing 3</name>
+			<position>5</position>
+			<volume>800</volume>
+			<mixspeed>3</mixspeed>
+			<mixtime>1</mixtime>
+			<magtime>40</magtime>
+			<waittime>3</waittime>
+			<temperature>0</temperature>
+			<step_type>3</step_type>
+		</step>
+		<step id="7">
+			<number>7</number>
+			<name>Elution</name>
+			<position>6</position>
+			<volume>100</volume>
+			<mixspeed>1</mixspeed>
+			<mixtime>7</mixtime>
+			<magtime>50</magtime>
+			<waittime>0</waittime>
+			<temperature>65</temperature>
+			<step_type>4</step_type>
+		</step>
+		<step id="8">
+			<number>8</number>
+			<name>End</name>
+			<position>2</position>
+			<volume>600</volume>
+			<mixspeed>1</mixspeed>
+			<mixtime>0.2</mixtime>
+			<magtime>0</magtime>
+			<waittime>0</waittime>
+			<temperature>0</temperature>
+			<step_type>5</step_type>
+		</step>
+		</steps>
+	</program>
+</behgen>

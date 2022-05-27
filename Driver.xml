@@ -1,0 +1,98 @@
+<behgen>   
+	<program>
+		<number>4</number>
+		<enable>true </enable>
+		<name>Driver</name>
+		<date>2021-02-15 10:53:30 </date>
+		<ispinned>false</ispinned>
+		<first_prob_temp>65</first_prob_temp>
+		<last_prob_temp>85</last_prob_temp>
+		<steps>
+			<step id="1">
+				<number>1</number>
+				<name>Magnetic beads</name>
+				<position>1</position>
+				<volume>300</volume>
+				<mixspeed>1</mixspeed>
+				<mixtime>0.2</mixtime>
+				<magtime>10</magtime>
+				<waittime>0</waittime>
+				<temperature>0</temperature>
+				<step_type>1</step_type>  
+			</step>
+      <step id="1">
+				<number>1</number>
+				<name>Magnetic beads</name>
+				<position>2</position>
+				<volume>300</volume>
+				<mixspeed>1</mixspeed>
+				<mixtime>0.2</mixtime>
+				<magtime>10</magtime>
+				<waittime>0</waittime>
+				<temperature>0</temperature>
+				<step_type>1</step_type>  
+			</step>
+      <step id="1">
+				<number>1</number>
+				<name>Magnetic beads</name>
+				<position>3</position>
+				<volume>300</volume>
+				<mixspeed>1</mixspeed>
+				<mixtime>0.2</mixtime>
+				<magtime>10</magtime>
+				<waittime>0</waittime>
+				<temperature>0</temperature>
+				<step_type>1</step_type>  
+			</step>
+      <step id="1">
+				<number>1</number>
+				<name>Magnetic beads</name>
+				<position>4</position>
+				<volume>300</volume>
+				<mixspeed>1</mixspeed>
+				<mixtime>0.2</mixtime>
+				<magtime>10</magtime>
+				<waittime>0</waittime>
+				<temperature>0</temperature>
+				<step_type>1</step_type>  
+			</step>
+      <step id="1">
+				<number>1</number>
+				<name>Magnetic beads</name>
+				<position>6</position>
+				<volume>300</volume>
+				<mixspeed>1</mixspeed>
+				<mixtime>0.2</mixtime>
+				<magtime>10</magtime>
+				<waittime>0</waittime>
+				<temperature>0</temperature>
+				<step_type>1</step_type>  
+			</step>
+      <step id="1">
+				<number>1</number>
+				<name>Magnetic beads</name>
+				<position>5</position>
+				<volume>300</volume>
+				<mixspeed>1</mixspeed>
+				<mixtime>0.2</mixtime>
+				<magtime>10</magtime>
+				<waittime>0</waittime>
+				<temperature>0</temperature>
+				<step_type>1</step_type>  
+			</step> 
+		 
+			<step id="5">
+				<number>5</number>
+				<name>End</name>
+				<position>2</position>
+				<volume>300</volume>
+				<mixspeed>1</mixspeed>
+				<mixtime>0.2</mixtime>
+				<magtime>0</magtime>
+				<waittime>0</waittime>
+				<temperature>0</temperature>
+				<step_type>5</step_type>  
+			</step>
+		</steps>
+	</program>
+</behgen>   
